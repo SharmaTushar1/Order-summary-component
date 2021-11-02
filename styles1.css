@@ -1,0 +1,25 @@
+body{
+    background: url("images/pattern-background-mobile.svg") no-repeat;
+    background-color: hsl(225, 100%, 94%);
+}
+
+#container{
+    width: 304px;
+}
+
+/* #plan{
+    max-height: 70px;
+} */
+
+#change{
+    padding-left: 25px;
+}
+
+h4{
+    
+    font-weight: 700;
+}
+
+h4, #ap>span{
+    font-size: 14px;
+}
